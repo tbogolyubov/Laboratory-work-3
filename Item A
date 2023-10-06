@@ -1,0 +1,22 @@
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+
+int main() 
+{
+	cout << "Введите идентификаторы первого поля и второго поля";
+	int k, l, m, n;
+	cin >> k >> l >> m >> n;
+
+	if ( (k + l) % 2 == (m + n) % 2)
+	{
+		cout << "Поля являются одинаковыми";
+	}
+	else {
+		cout << "Поля являются разными";
+	}
+
+	return 0;
+}
