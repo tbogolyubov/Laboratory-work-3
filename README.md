@@ -10,15 +10,21 @@
 
 # Скриншоты тестов:
 Тест для ферзя: 
+
 ![Alt-текст](https://github.com/tbogolyubov/Laboratory-work-3/blob/main/тест%20ферзь.jpg)
 
 Тест для ладьи: 
+
 ![Alt-текст](https://github.com/tbogolyubov/Laboratory-work-3/blob/main/%D1%82%D0%B5%D1%81%D1%82%20%D0%BB%D0%B0%D0%B4%D1%8C%D1%8F.jpg)
 
 Тесты для слона: 
+
 ![Alt-текст](https://github.com/tbogolyubov/Laboratory-work-3/blob/main/%D1%82%D0%B5%D1%81%D1%82%20%D1%81%D0%BB%D0%BE%D0%BD%201.jpg)
+
 ![Alt-текст](https://github.com/tbogolyubov/Laboratory-work-3/blob/main/%D1%82%D0%B5%D1%81%D1%82%20%D1%81%D0%BB%D0%BE%D0%BD%202.jpg)
 
 Тесты для коня:
+
 ![Alt-текст](https://github.com/tbogolyubov/Laboratory-work-3/blob/main/%D1%82%D0%B5%D1%81%D1%82%20%D0%BA%D0%BE%D0%BD%D1%8C%201.jpg)
+
 ![Alt-текст](https://github.com/tbogolyubov/Laboratory-work-3/blob/main/%D1%82%D0%B5%D1%81%D1%82%20%D0%BA%D0%BE%D0%BD%D1%8C%202.jpg)
